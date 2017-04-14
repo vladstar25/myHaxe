@@ -1,4 +1,4 @@
-package;
+package; //Рабочая версия
  
 import js.Browser;
 import openfl.display.Sprite;
