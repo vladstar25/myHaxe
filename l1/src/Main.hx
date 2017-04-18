@@ -1,4 +1,4 @@
-package; //Рабочая версия
+package; //Vot rabota s freeBsd
  
 import js.Browser;
 import openfl.display.Sprite;
